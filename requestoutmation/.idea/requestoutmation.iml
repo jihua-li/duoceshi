@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/导入练习/pack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数据库操作" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tsms_robot_project/robot_commons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tsms_robot_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_tsms_pytest_project/pytest_commons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_tsms_pytest_project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unit_py_frame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_tsms_pytest_project/pytest_config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_tsms_pytest_project/test_cases/test_send_message_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/测试桩开发/flask框架" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/测试桩开发" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/selenium" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/测试桩开发/flask框架/FLASK模版" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/测试桩开发/flask框架/FLASK模版/jinja22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/测试桩开发/flask课后作业/flask_web项目" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_tsms_project_pytest_pansir/tsms_pytest_commons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_tsms_project_pytest_pansir" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/进程与线程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python功能实现" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

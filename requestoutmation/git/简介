@@ -1,0 +1,37 @@
+一个
+
+第一步提交到暂存区，git.add a.text
+第二步提交到仓库, git commit -m
+
+git reflog --查看所有版本操作记录
+
+git branch -a  --显示所有分支
+
+1、和远程仓库建立连接前需要在本地的home目录（～）的.ssh目录中生成公钥和私钥 -- cd ~/.ssh
+ssh-keygen -t rsa -C “124391672@qq.com”
+一路回车即可
+成功后在目录下生成私钥和公钥两个文件id_rsa, id_rsa_pub
+
+2、登陆github，点击头像->Settings->SSH and GPG keys -> new SSH key
+title随便填，把公钥复制进来
+
+这样本地仓库就可以和远程仓库建立连接进行通讯了
+
+3、拉取GitHub代码，上传新增代码到GitHub操作流程
+git clone git@github.com:minione1/test_git.git  --拉取GitHub远程仓库中的代码
+vim say.py  --本地新增模块
+git add say.py  --将新增的模块添加到暂存区
+git commit -m "add say.py"  --将暂存区的模块提交到本地仓库
+git status  --查看操作状态
+git log  --查看操作日志记录
+
+git push origin master  --将本地仓库的代码提交到github远程仓库的master分支中
+
+
+分支管理：
+1. 创建新分支:git checkout -b dev
+2. 查看分支:git branch -a
+3. 新增一个文件:vim say.py
+4. 提交:git add . git commit -m "add say" 5. 切换到master:git checkout master
+6. 将dev合并到master分支:git merge dev 7. 删除dev分 :git branch -d dev
+8. 查看分支:git branch -a

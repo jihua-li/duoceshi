@@ -1,0 +1,6 @@
+records==0.5.3
+requests==2.18.1
+xlrd==1.2.0
+pytest==5.1.2
+tenacity==5.1.1
+redis==3.2.0

@@ -1,0 +1,23 @@
+http://192.168.0.148:8002/phpmyadmin/index.php  #数据库登录页面地址  root/123456
+192.168.0.101:8002/phpmyadmin/sql.php
+
+db环境已经迁移到云机，可以试试看。大家直连数据库的时候，注意别删库删表，操作尽量规范
+ip：148.70.194.135
+端口：3306
+user：debian-sys-maint
+password：6udZCFBibeLtPuiG
+
+rabbitMQ:
+192.168.0.182:15672
+admin/admin
+
+redis:
+http://192.168.0.180:8085/auth/login?next=/
+admin/admin
+
+kafka管理页面地址：192.168.0.180:8889
+ssh parallels@192.168.0.180 -p 1234
+12345678
+kafka消费监听：kafka-console-consumer.sh --bootstrap-server 10.211.55.5:9092 --topic msgTopic --from-beginning
+kafka生产者：kafka-console-producer.sh --broker-list 10.211.55.5:9092 --topic msgTopic
+cd /home/parallels/kafka_demo/kafka_2.12-2.3.0/bins

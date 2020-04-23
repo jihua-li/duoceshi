@@ -1,0 +1,108 @@
+2020-02-14 09:19:26,351 - INFO : [当前环境是]: None
+2020-02-14 09:19:26,366 - INFO : [当前环境是]: None
+2020-02-14 09:19:26,367 - DEBUG : Function:[get_web_session], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x1112d54a8>,), kwargs:{'login_type': 'internal'}
+2020-02-14 09:19:26,367 - DEBUG : Function:[login_lts], default params:(None, None), args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x1112d54a8>, 'internal'), kwargs:{}
+2020-02-14 09:19:26,367 - INFO : [登录首页url为]：http://121.11.160.120:9020/sso/ssosysuser/home.html?sys=0&netType=1
+2020-02-14 09:19:26,367 - INFO : [登录URL为]：http://121.11.160.120:9020/sso/data
+2020-02-14 09:19:26,387 - DEBUG : Starting new HTTP connection (1): 127.0.0.1
+2020-02-14 09:19:26,502 - DEBUG : http://127.0.0.1:8888 "GET http://121.11.160.120:9020/sso/ssosysuser/home.html?sys=0&netType=1 HTTP/1.1" 302 0
+2020-02-14 09:19:26,556 - DEBUG : http://127.0.0.1:8888 "GET http://121.11.160.120:9020/sso/?netType=1 HTTP/1.1" 200 None
+2020-02-14 09:19:26,566 - INFO : [进入登录首页成功]
+2020-02-14 09:19:26,572 - DEBUG : Starting new HTTP connection (1): 127.0.0.1
+2020-02-14 09:19:26,823 - DEBUG : http://127.0.0.1:8888 "POST http://121.11.160.120:9020/sso/data HTTP/1.1" 200 None
+2020-02-14 09:19:26,840 - INFO : 登录后返回的headers为：{'Server': 'Apache-Coyote/1.1', 'Pragma': 'No-cache', 'Cache-Control': 'no-cache', 'Expires': 'Thu, 01 Jan 1970 00:00:00 GMT', 'Set-Cookie': 'JSESSIONID=E7AB1B93D7CA91FFA8C8235337832614; Path=/sso, userInfo.userType=0', 'Content-Type': 'text/html;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 14 Feb 2020 01:19:24 GMT', 'Connection': 'keep-alive'}
+2020-02-14 09:19:26,840 - DEBUG : Function:[login_lts], Result: {'loginNum': 2315, 'status': 1, 'state': 1, 'cakey': None, 'rowCount': 1, 'userType': 0, 'loginByCaMode': '0', 'token': '', 'serverTime': '2020-02-14 09:19:24', 'userId': '0566B04F74B044C9B649999D8043333E', 'loginTimes': None, 'userName': 'zdjgl', 'displayName': 'zdjgl', 'lastLoginTime': '2020-02-13 20:45:18', 'totalRowCount': 1}
+2020-02-14 09:19:26,841 - INFO : 登录成功
+2020-02-14 09:19:26,841 - INFO : [登录后获取到的userId为]：0566B04F74B044C9B649999D8043333E
+2020-02-14 09:19:26,841 - INFO : web session 为：<RequestsCookieJar[]>
+2020-02-14 09:19:26,842 - DEBUG : Function:[get_web_session], Result: <requests.sessions.Session object at 0x11034e0f0>
+2020-02-14 09:19:26,844 - INFO : web_session夹具返回s, userid值为：<requests.sessions.Session object at 0x11034e0f0>, 0566B04F74B044C9B649999D8043333E
+2020-02-14 09:19:26,844 - INFO : s.cookies值为：<RequestsCookieJar[]>
+2020-02-14 09:19:26,845 - DEBUG : Function:[req_post], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x11131ab70>, 'data_api', {'module': 'before', 'service': 'TransGoodsLand', 'method': 'saveTransGoods', 'mode': 'new', 'escape': 'true', 'targetId': None, 'goodsId': None, 'goods_type': 101, 'u': '0566B04F74B044C9B649999D8043333E', 'address': '殚思极虑分经济法老师的积分来的', 'transLandTypeValue': '', 'client_name': '揭阳市自然资源局', 'client_legal_person': '王五', 'no': 'AT20204817', 'build_area': 34344, 'goods_use': '城镇住宅用地', 'use_years': 50, 'canton_name': '', 'plot1_down': '', 'plot1_up': 40, 'build_density_down': '', 'build_density_up': '', 'build_height': '', 'build_height2': '', 'green_ratio_down': '', 'green_ratio_up': '', 'aggregateInvestment': '', 'industry_type': ' ', 'limitup': '', 'limitdown': '', 'positionxy': '', 'projectTerm': '', 'goods_use_select': '城镇住宅用地', 'canton_id': 445200, 'plot1_flag': '<=', 'plot2_flag': '<=', 'build_density1_flag': '<=', 'build_density2_flag': '<=', 'build_height1_flag': '<=', 'build_height2_flag': '<=', 'green_ratio1_flag': '<=', 'green_ratio2_flag': '<=', 'client_matter': '时间可否极乐世界福克斯的加夫里什减肥就是看到肌肤的积分卡', 'remark': '', 'ms': 1581643166351}), kwargs:{}
+2020-02-14 09:19:26,845 - INFO : ===》self.s.cookies为：<RequestsCookieJar[]>
+2020-02-14 09:19:26,849 - DEBUG : Starting new HTTP connection (1): 127.0.0.1
+2020-02-14 09:19:26,961 - DEBUG : http://127.0.0.1:8888 "POST http://121.11.160.120:9020/sso/data HTTP/1.1" 200 None
+2020-02-14 09:19:27,007 - INFO : [返回码是:] 200
+2020-02-14 09:19:27,008 - INFO : [请求的headers为]：{'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*', 'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'JSESSIONID=E7AB1B93D7CA91FFA8C8235337832614', 'Content-Length': '1319', 'Content-Type': 'application/x-www-form-urlencoded'}
+2020-02-14 09:19:27,008 - DEBUG : Function:[req_post], Result: {'message': 'com.before.service.TransGoodsLandService', 'state': 0}
+2020-02-14 09:46:03,366 - INFO : [当前环境是]: None
+2020-02-14 09:46:03,385 - INFO : [当前环境是]: None
+2020-02-14 09:46:03,386 - DEBUG : Function:[get_web_session], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10fa7f828>,), kwargs:{'login_type': 'internal'}
+2020-02-14 09:46:03,387 - DEBUG : Function:[login_lts], default params:(None, None), args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10fa7f828>, 'internal'), kwargs:{}
+2020-02-14 09:46:03,387 - INFO : [登录首页url为]：http://121.11.160.120:9020/sso/ssosysuser/home.html?sys=0&netType=1
+2020-02-14 09:46:03,388 - INFO : [登录URL为]：http://121.11.160.120:9020/sso/data
+2020-02-14 09:46:03,402 - DEBUG : Starting new HTTP connection (1): 127.0.0.1
+2020-02-14 09:46:03,591 - DEBUG : http://127.0.0.1:8888 "GET http://121.11.160.120:9020/sso/ssosysuser/home.html?sys=0&netType=1 HTTP/1.1" 302 0
+2020-02-14 09:46:03,665 - DEBUG : http://127.0.0.1:8888 "GET http://121.11.160.120:9020/sso/?netType=1 HTTP/1.1" 200 None
+2020-02-14 09:46:03,670 - INFO : [进入登录首页成功]
+2020-02-14 09:46:03,678 - DEBUG : Starting new HTTP connection (1): 127.0.0.1
+2020-02-14 09:46:03,970 - DEBUG : http://127.0.0.1:8888 "POST http://121.11.160.120:9020/sso/data HTTP/1.1" 200 None
+2020-02-14 09:46:03,985 - INFO : 登录后返回的headers为：{'Server': 'Apache-Coyote/1.1', 'Pragma': 'No-cache', 'Cache-Control': 'no-cache', 'Expires': 'Thu, 01 Jan 1970 00:00:00 GMT', 'Set-Cookie': 'JSESSIONID=AFBB337238987CBDD0EF6F8743185757; Path=/sso, userInfo.userType=0', 'Content-Type': 'text/html;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 14 Feb 2020 01:46:02 GMT', 'Connection': 'keep-alive'}
+2020-02-14 09:46:03,986 - DEBUG : Function:[login_lts], Result: {'loginNum': 2316, 'status': 1, 'state': 1, 'cakey': None, 'rowCount': 1, 'userType': 0, 'loginByCaMode': '0', 'token': '', 'serverTime': '2020-02-14 09:46:01', 'userId': '0566B04F74B044C9B649999D8043333E', 'loginTimes': None, 'userName': 'zdjgl', 'displayName': 'zdjgl', 'lastLoginTime': '2020-02-14 09:19:24', 'totalRowCount': 1}
+2020-02-14 09:46:03,986 - INFO : 登录成功
+2020-02-14 09:46:03,987 - INFO : [登录后获取到的userId为]：0566B04F74B044C9B649999D8043333E
+2020-02-14 09:46:03,987 - INFO : web session 为：<RequestsCookieJar[]>
+2020-02-14 09:46:03,988 - DEBUG : Function:[get_web_session], Result: <requests.sessions.Session object at 0x10fa7f860>
+2020-02-14 09:46:03,994 - INFO : web_session夹具返回s, userid值为：<requests.sessions.Session object at 0x10fa7f860>, 0566B04F74B044C9B649999D8043333E
+2020-02-14 09:46:03,995 - INFO : s.cookies值为：<RequestsCookieJar[]>
+2020-02-14 09:46:03,995 - DEBUG : Function:[req_post], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10fa41e10>, 'jieyang_data_api', {'module': 'before', 'service': 'TransGoodsLand', 'method': 'saveTransGoods', 'mode': 'new', 'escape': 'true', 'targetId': None, 'goodsId': None, 'goods_type': 101, 'u': '0566B04F74B044C9B649999D8043333E', 'address': '殚思极虑分经济法老师的积分来的', 'transLandTypeValue': '', 'client_name': '揭阳市自然资源局', 'client_legal_person': '王五', 'no': 'AT20209401', 'build_area': 34344, 'goods_use': '城镇住宅用地', 'use_years': 50, 'canton_name': '', 'plot1_down': '', 'plot1_up': 40, 'build_density_down': '', 'build_density_up': '', 'build_height': '', 'build_height2': '', 'green_ratio_down': '', 'green_ratio_up': '', 'aggregateInvestment': '', 'industry_type': ' ', 'limitup': '', 'limitdown': '', 'positionxy': '', 'projectTerm': '', 'goods_use_select': '城镇住宅用地', 'canton_id': 445200, 'plot1_flag': '<=', 'plot2_flag': '<=', 'build_density1_flag': '<=', 'build_density2_flag': '<=', 'build_height1_flag': '<=', 'build_height2_flag': '<=', 'green_ratio1_flag': '<=', 'green_ratio2_flag': '<=', 'client_matter': '时间可否极乐世界福克斯的加夫里什减肥就是看到肌肤的积分卡', 'remark': '', 'ms': 1581644763365}), kwargs:{}
+2020-02-14 09:46:03,995 - INFO : ===》self.s.cookies为：<RequestsCookieJar[]>
+2020-02-14 09:46:03,998 - DEBUG : Starting new HTTP connection (1): 127.0.0.1
+2020-02-14 09:46:05,114 - DEBUG : http://127.0.0.1:8888 "POST http://121.11.160.120:9020/jieyang/data HTTP/1.1" 200 107
+2020-02-14 09:46:05,116 - INFO : [返回码是:] 200
+2020-02-14 09:46:05,116 - INFO : [请求的headers为]：{'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*', 'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'JSESSIONID=AFBB337238987CBDD0EF6F8743185757', 'Content-Length': '1319', 'Content-Type': 'application/x-www-form-urlencoded'}
+2020-02-14 09:46:05,117 - DEBUG : Function:[req_post], Result: {'message': '保存成功！', 'goodsId': '20200214094602241783', 'state': 1, 'targetId': None, 'st': 1581644762788}
+2020-02-14 10:42:50,548 - INFO : [当前环境是]: None
+2020-02-14 10:42:50,564 - INFO : [当前环境是]: None
+2020-02-14 10:42:50,565 - DEBUG : Function:[get_web_session], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10badebe0>,), kwargs:{'login_type': 'internal'}
+2020-02-14 10:42:50,565 - DEBUG : Function:[login_lts], default params:(None, None), args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10badebe0>, 'internal'), kwargs:{}
+2020-02-14 10:42:50,566 - INFO : [登录首页url为]：http://121.11.160.120:9020/sso/ssosysuser/home.html?sys=0&netType=1
+2020-02-14 10:42:50,566 - INFO : [登录URL为]：http://121.11.160.120:9020/sso/data
+2020-02-14 10:42:50,582 - DEBUG : Starting new HTTP connection (1): 121.11.160.120
+2020-02-14 10:42:50,676 - DEBUG : http://121.11.160.120:9020 "GET /sso/ssosysuser/home.html?sys=0&netType=1 HTTP/1.1" 302 0
+2020-02-14 10:42:50,733 - DEBUG : http://121.11.160.120:9020 "GET /sso/?netType=1 HTTP/1.1" 200 None
+2020-02-14 10:42:50,735 - INFO : [进入登录首页成功]
+2020-02-14 10:42:50,738 - DEBUG : Starting new HTTP connection (1): 121.11.160.120
+2020-02-14 10:42:50,948 - DEBUG : http://121.11.160.120:9020 "POST /sso/data HTTP/1.1" 200 None
+2020-02-14 10:42:50,957 - INFO : 登录后返回的headers为：{'Server': 'Apache-Coyote/1.1', 'Pragma': 'No-cache', 'Cache-Control': 'no-cache', 'Expires': 'Thu, 01 Jan 1970 00:00:00 GMT', 'Set-Cookie': 'JSESSIONID=F161A0053F5B2454F707C7C05F84FACC; Path=/sso, userInfo.userType=0', 'Content-Type': 'text/html;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 14 Feb 2020 02:42:48 GMT'}
+2020-02-14 10:42:50,958 - DEBUG : Function:[login_lts], Result: {'loginNum': 2318, 'status': 1, 'state': 1, 'cakey': None, 'rowCount': 1, 'userType': 0, 'loginByCaMode': '0', 'token': '', 'serverTime': '2020-02-14 10:42:48', 'userId': '0566B04F74B044C9B649999D8043333E', 'loginTimes': None, 'userName': 'zdjgl', 'displayName': 'zdjgl', 'lastLoginTime': '2020-02-14 09:51:09', 'totalRowCount': 1}
+2020-02-14 10:42:50,958 - INFO : 登录成功
+2020-02-14 10:42:50,959 - INFO : [登录后获取到的userId为]：0566B04F74B044C9B649999D8043333E
+2020-02-14 10:42:50,959 - INFO : web session 为：<RequestsCookieJar[]>
+2020-02-14 10:42:50,959 - DEBUG : Function:[get_web_session], Result: <requests.sessions.Session object at 0x10bae6f28>
+2020-02-14 10:42:50,964 - INFO : web_session夹具返回s, userid值为：<requests.sessions.Session object at 0x10bae6f28>, 0566B04F74B044C9B649999D8043333E
+2020-02-14 10:42:50,965 - INFO : s.cookies值为：<RequestsCookieJar[]>
+2020-02-14 10:42:50,965 - DEBUG : Function:[req_post], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10baa9da0>, 'jieyang_data_api', {'module': 'before', 'service': 'TransGoodsLand', 'method': 'saveTransGoods', 'mode': 'new', 'escape': 'true', 'targetId': None, 'goodsId': None, 'goods_type': 101, 'u': '0566B04F74B044C9B649999D8043333E', 'address': '槊瞰木旅解镡膜褶耘碱', 'transLandTypeValue': '', 'client_name': '揭阳市自然资源局', 'client_legal_person': '肜区', 'no': 'AT20200240', 'build_area': 34344, 'goods_use': '城镇住宅用地', 'use_years': 50, 'canton_name': '', 'plot1_down': '', 'plot1_up': 40, 'build_density_down': '', 'build_density_up': '', 'build_height': '', 'build_height2': '', 'green_ratio_down': '', 'green_ratio_up': '', 'aggregateInvestment': '', 'industry_type': ' ', 'limitup': '', 'limitdown': '', 'positionxy': '', 'projectTerm': '', 'goods_use_select': '城镇住宅用地', 'canton_id': 445200, 'plot1_flag': '<=', 'plot2_flag': '<=', 'build_density1_flag': '<=', 'build_density2_flag': '<=', 'build_height1_flag': '<=', 'build_height2_flag': '<=', 'green_ratio1_flag': '<=', 'green_ratio2_flag': '<=', 'client_matter': '置掮笥逢咱传醺衤顺叻草洋酸巅募', 'remark': '', 'ms': 1581648170548}), kwargs:{}
+2020-02-14 10:42:50,965 - INFO : ===》self.s.cookies为：<RequestsCookieJar[]>
+2020-02-14 10:42:50,970 - DEBUG : Starting new HTTP connection (1): 121.11.160.120
+2020-02-14 10:42:51,745 - DEBUG : http://121.11.160.120:9020 "POST /jieyang/data HTTP/1.1" 200 107
+2020-02-14 10:42:51,746 - INFO : [返回码是:] 200
+2020-02-14 10:42:51,747 - INFO : [请求的headers为]：{'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*', 'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'JSESSIONID=F161A0053F5B2454F707C7C05F84FACC', 'Content-Length': '1157', 'Content-Type': 'application/x-www-form-urlencoded'}
+2020-02-14 10:42:51,747 - DEBUG : Function:[req_post], Result: {'message': '保存成功！', 'goodsId': '20200214104249169704', 'state': 1, 'targetId': None, 'st': 1581648169685}
+2020-02-14 11:27:24,120 - INFO : [当前环境是]: None
+2020-02-14 11:27:24,141 - INFO : [当前环境是]: None
+2020-02-14 11:27:24,141 - DEBUG : Function:[get_web_session], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10913d2e8>,), kwargs:{'login_type': 'internal'}
+2020-02-14 11:27:24,141 - DEBUG : Function:[login_lts], default params:(None, None), args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x10913d2e8>, 'internal'), kwargs:{}
+2020-02-14 11:27:24,141 - INFO : [登录首页url为]：http://121.11.160.120:9020/sso/ssosysuser/home.html?sys=0&netType=1
+2020-02-14 11:27:24,142 - INFO : [登录URL为]：http://121.11.160.120:9020/sso/data
+2020-02-14 11:27:24,159 - DEBUG : Starting new HTTP connection (1): 121.11.160.120
+2020-02-14 11:27:24,242 - DEBUG : http://121.11.160.120:9020 "GET /sso/ssosysuser/home.html?sys=0&netType=1 HTTP/1.1" 302 0
+2020-02-14 11:27:24,300 - DEBUG : http://121.11.160.120:9020 "GET /sso/?netType=1 HTTP/1.1" 200 None
+2020-02-14 11:27:24,306 - INFO : [进入登录首页成功]
+2020-02-14 11:27:24,310 - DEBUG : Starting new HTTP connection (1): 121.11.160.120
+2020-02-14 11:27:24,563 - DEBUG : http://121.11.160.120:9020 "POST /sso/data HTTP/1.1" 200 None
+2020-02-14 11:27:24,571 - INFO : 登录后返回的headers为：{'Server': 'Apache-Coyote/1.1', 'Pragma': 'No-cache', 'Cache-Control': 'no-cache', 'Expires': 'Thu, 01 Jan 1970 00:00:00 GMT', 'Set-Cookie': 'JSESSIONID=02E032ECC2FA8D596BCD2694105BA8A2; Path=/sso, userInfo.userType=0', 'Content-Type': 'text/html;charset=UTF-8', 'Transfer-Encoding': 'chunked', 'Date': 'Fri, 14 Feb 2020 03:27:22 GMT'}
+2020-02-14 11:27:24,572 - DEBUG : Function:[login_lts], Result: {'loginNum': 2319, 'status': 1, 'state': 1, 'cakey': None, 'rowCount': 1, 'userType': 0, 'loginByCaMode': '0', 'token': '', 'serverTime': '2020-02-14 11:27:22', 'userId': '0566B04F74B044C9B649999D8043333E', 'loginTimes': None, 'userName': 'zdjgl', 'displayName': 'zdjgl', 'lastLoginTime': '2020-02-14 10:42:48', 'totalRowCount': 1}
+2020-02-14 11:27:24,572 - INFO : 登录成功
+2020-02-14 11:27:24,572 - INFO : [登录后获取到的userId为]：0566B04F74B044C9B649999D8043333E
+2020-02-14 11:27:24,573 - INFO : web session 为：<RequestsCookieJar[]>
+2020-02-14 11:27:24,573 - DEBUG : Function:[get_web_session], Result: <requests.sessions.Session object at 0x109141518>
+2020-02-14 11:27:24,578 - INFO : web_session夹具返回s, userid值为：<requests.sessions.Session object at 0x109141518>, 0566B04F74B044C9B649999D8043333E
+2020-02-14 11:27:24,578 - INFO : s.cookies值为：<RequestsCookieJar[]>
+2020-02-14 11:27:24,579 - DEBUG : Function:[req_post], default params:None, args:(<lts_pytest_commons.lts_web.LtsWeb object at 0x109142198>, 'jieyang_data_api', {'module': 'before', 'service': 'TransGoodsLand', 'method': 'saveTransGoods', 'mode': 'new', 'escape': 'true', 'targetId': None, 'goodsId': None, 'goods_type': 101, 'u': '0566B04F74B044C9B649999D8043333E', 'address': '善九抓俦咯派邬鲤毹蕻', 'transLandTypeValue': '', 'client_name': '揭阳市自然资源局', 'client_legal_person': '鲮砉', 'no': 'AT20205650', 'build_area': 34344, 'goods_use': '城镇住宅用地', 'use_years': 50, 'canton_name': '', 'plot1_down': '', 'plot1_up': 40, 'build_density_down': '', 'build_density_up': '', 'build_height': '', 'build_height2': '', 'green_ratio_down': '', 'green_ratio_up': '', 'aggregateInvestment': '', 'industry_type': ' ', 'limitup': '', 'limitdown': '', 'positionxy': '', 'projectTerm': '', 'goods_use_select': '城镇住宅用地', 'canton_id': 445200, 'plot1_flag': '<=', 'plot2_flag': '<=', 'build_density1_flag': '<=', 'build_density2_flag': '<=', 'build_height1_flag': '<=', 'build_height2_flag': '<=', 'green_ratio1_flag': '<=', 'green_ratio2_flag': '<=', 'client_matter': '卡悔揶映锎姬铳跚樱鲩埠汔鸡铑鲐', 'remark': '', 'ms': 1581650844120}), kwargs:{}
+2020-02-14 11:27:24,579 - INFO : ===》self.s.cookies为：<RequestsCookieJar[]>
+2020-02-14 11:27:24,587 - DEBUG : Starting new HTTP connection (1): 121.11.160.120
+2020-02-14 11:27:25,252 - DEBUG : http://121.11.160.120:9020 "POST /jieyang/data HTTP/1.1" 200 107
+2020-02-14 11:27:25,253 - INFO : [返回码是:] 200
+2020-02-14 11:27:25,254 - INFO : [请求的headers为]：{'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*', 'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'JSESSIONID=02E032ECC2FA8D596BCD2694105BA8A2', 'Content-Length': '1157', 'Content-Type': 'application/x-www-form-urlencoded'}
+2020-02-14 11:27:25,254 - DEBUG : Function:[req_post], Result: {'message': '保存成功！', 'goodsId': '20200214112722673652', 'state': 1, 'targetId': None, 'st': 1581650843188}

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+	<div class="row clearfix">
+		<div class="col-md-12 column">
+			<h3 class="text-center">
+				签名列表
+			</h3> <button type="button" class="btn btn-default active btn-info">无效按钮</button>
+			<div class="row clearfix">
+				<div class="col-md-6 column">
+					<ul class="list-inline list-unstyled">
+						<li>
+							Lorem ipsum dolor sit amet
+						</li>
+						<li>
+							Consectetur adipiscing elit
+						</li>
+						<li>
+							Integer molestie lorem at massa
+						</li>
+						<li>
+							Facilisis in pretium nisl aliquet
+						</li>
+						<li>
+							Nulla volutpat aliquam velit
+						</li>
+						<li>
+							Faucibus porta lacus fringilla vel
+						</li>
+						<li>
+							Aenean sit amet erat nunc
+						</li>
+						<li>
+							Eget porttitor lorem
+						</li>
+					</ul>
+				</div>
+			</div>
+			<table class="table">
+				<thead>
+					<tr>
+						<th>
+							创建时间
+						</th>
+						<th>
+							签名id
+						</th>
+						<th>
+							签名内容
+						</th>
+						<th>
+							状态
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+                {% for res in result %}
+                <tr class="info">
+                    {% for key, value in res.items() %}
+                    <td class="info">
+                        {{ value }}
+                    </td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+                </tbody>
+			</table>
+		</div>
+	</div>
+</div>
+</body>
+</html>

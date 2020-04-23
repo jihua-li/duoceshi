@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a111275c-b9c2-4e24-a35b-66aa40042e2b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_Testhelo_test_01.coverage" NAME="py.test for test_ljh.Testhelo.test_01 Coverage Results" MODIFIED="1575196513869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hhh/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_base.coverage" NAME="tsms_base Coverage Results" MODIFIED="1570441070147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_tsms_run_case_SignAdd_test2.coverage" NAME="Unittests for tsms_run_case.SignAdd.test2 Coverage Results" MODIFIED="1571561049217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$111.coverage" NAME="111 Coverage Results" MODIFIED="1573134887429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/高级特性" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_try_test_add.coverage" NAME="py.test for try.test_add Coverage Results" MODIFIED="1577373235113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame/数据驱动" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_case.coverage" NAME="tsms_case Coverage Results" MODIFIED="1572171099523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$find_elements.coverage" NAME="find_elements Coverage Results" MODIFIED="1583662511249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_mq_to_redis.coverage" NAME="tsms_mq_to_redis Coverage Results" MODIFIED="1578796617390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/lijihua/duoceshi/学习课程" />
+    <SUITE FILE_PATH="coverage/requestoutmation$run_all_cases_03.coverage" NAME="run_all_cases_03 Coverage Results" MODIFIED="1572166039593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project" />
+    <SUITE FILE_PATH="coverage/requestoutmation$14.coverage" NAME="14小字符串拼接 Coverage Results" MODIFIED="1586876546045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_test_ljh_py.coverage" NAME="py.test in test_ljh.py Coverage Results" MODIFIED="1576391921107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$json.coverage" NAME="json Coverage Results" MODIFIED="1570429771541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/requestoutmation$xpth.coverage" NAME="xpth定位 Coverage Results" MODIFIED="1583659189781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_try1_Sign_test1.coverage" NAME="Unittests for try1.Sign.test1 Coverage Results" MODIFIED="1571566332081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_redis_SendMessage_test_send_message_success.coverage" NAME="Unittests for test_send_message_redis.SendMessage.test_send_message_success Coverage Results" MODIFIED="1574577316179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_redis.coverage" NAME="tsms_redis Coverage Results" MODIFIED="1578810417089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/pytest_commons" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_try_test_login2.coverage" NAME="py.test for try.test_login2 Coverage Results" MODIFIED="1577372080814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame/数据驱动" />
+    <SUITE FILE_PATH="coverage/requestoutmation$roabbitMQ.coverage" NAME="roabbitMQ Coverage Results" MODIFIED="1577603414433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_SendMessage_test_send_message_success.coverage" NAME="Unittests for test_send_message.SendMessage.test_send_message_success Coverage Results" MODIFIED="1572778988525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_mq.coverage" NAME="tsms_mq Coverage Results" MODIFIED="1578800752007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/pytest_commons" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_send_message_SendMessage_test_send_message.coverage" NAME="py.test for test_send_message.SendMessage.test_send_message Coverage Results" MODIFIED="1584865508559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_test_tsms_mq_consume_py.coverage" NAME="py.test in test_tsms_mq_consume.py Coverage Results" MODIFIED="1578815462510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mq" />
+    <SUITE FILE_PATH="coverage/requestoutmation$flask_api.coverage" NAME="flask-api Coverage Results" MODIFIED="1584270490447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/flask_web项目" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for__test_count.coverage" NAME="py.test for 数据驱动.test_count Coverage Results" MODIFIED="1575794603067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest/数据驱动" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_data_drive_py.coverage" NAME="Unittests in data_drive.py Coverage Results" MODIFIED="1572746476835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_web.coverage" NAME="tsms_web Coverage Results" MODIFIED="1573703134533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/commons" />
+    <SUITE FILE_PATH="coverage/requestoutmation$flaskdata.coverage" NAME="flask接收data Coverage Results" MODIFIED="1583051158500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/请求数据与接收数据（重点）/data参数" />
+    <SUITE FILE_PATH="coverage/requestoutmation$module1.coverage" NAME="module1 Coverage Results" MODIFIED="1569654502032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/导入练习/pack/sub1" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for__test_01.coverage" NAME="py.test for 参数组合.test_01 Coverage Results" MODIFIED="1577375077804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_tsms_run_case_SignAdd_test1.coverage" NAME="Unittests for tsms_run_case.SignAdd.test1 Coverage Results" MODIFIED="1571561856862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_test_create_sign_py.coverage" NAME="Unittests in test_create_sign.py Coverage Results" MODIFIED="1573960398895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$send_msg.coverage" NAME="send_msg Coverage Results" MODIFIED="1581826755355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议/kafka" />
+    <SUITE FILE_PATH="coverage/requestoutmation$AMQProabbitMQ.coverage" NAME="AMQP协议与roabbitMQ Coverage Results" MODIFIED="1577012840524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议" />
+    <SUITE FILE_PATH="coverage/requestoutmation$pythonmongo.coverage" NAME="python操作mongo Coverage Results" MODIFIED="1582429704815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/mongodb" />
+    <SUITE FILE_PATH="coverage/requestoutmation$url.coverage" NAME="url构建 Coverage Results" MODIFIED="1583043430412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_TestMark.coverage" NAME="py.test for test_ljh.TestMark Coverage Results" MODIFIED="1576393760285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test.coverage" NAME="py_test Coverage Results" MODIFIED="1575196261254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$15.coverage" NAME="15对字符串进行左、右、居中对齐 Coverage Results" MODIFIED="1586878356145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_Testhelo_test_02.coverage" NAME="py.test for test_ljh.Testhelo.test_02 Coverage Results" MODIFIED="1575769429574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$test_tsms_mq_produce.coverage" NAME="test_tsms_mq_produce Coverage Results" MODIFIED="1578812407230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mq" />
+    <SUITE FILE_PATH="coverage/requestoutmation$data__1_.coverage" NAME="客户端请求带data参数 (1) Coverage Results" MODIFIED="1583054071483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/请求数据与接收数据（重点）/form表单" />
+    <SUITE FILE_PATH="coverage/requestoutmation$test_ljh.coverage" NAME="test_ljh Coverage Results" MODIFIED="1576399574914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_redis_SendMessage_test_send_3.coverage" NAME="Unittests for test_send_message_redis.SendMessage.test_send_3 Coverage Results" MODIFIED="1574583614034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_test_hh.coverage" NAME="py.test for test_ljh.test_hh Coverage Results" MODIFIED="1575196373154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hhh/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$jinja22.coverage" NAME="jinja22 Coverage Results" MODIFIED="1584256566651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/FLASK模版/jinja22" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_create_sign_CreateSign.coverage" NAME="Unittests for test_create_sign.CreateSign Coverage Results" MODIFIED="1573376814999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$.coverage" NAME="调整字符串中文本格式 Coverage Results" MODIFIED="1586582509672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_SendMessage_test_send_message_overclocking.coverage" NAME="Unittests for test_send_message.SendMessage.test_send_message_overclocking Coverage Results" MODIFIED="1575181396063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$flaskargs.coverage" NAME="flask接收args Coverage Results" MODIFIED="1584976106402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/请求数据与接收数据（重点）/args参数" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_test_send_message_py.coverage" NAME="Unittests in test_send_message.py Coverage Results" MODIFIED="1573379137236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$pro_and_consume.coverage" NAME="pro_and_consume Coverage Results" MODIFIED="1585449387938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程与线程/python多进程" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_tsms_run_case_SignAdd_testSignAdd1.coverage" NAME="Unittests for tsms_run_case.SignAdd.testSignAdd1 Coverage Results" MODIFIED="1571557149266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_01_SendMessage_test_send_message_success.coverage" NAME="Unittests for test_01.SendMessage.test_send_message_success Coverage Results" MODIFIED="1572778089235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$test_bootstrap.coverage" NAME="test_bootstrap Coverage Results" MODIFIED="1584800271172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/FLASK模版/jinja22" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_mongo.coverage" NAME="tsms_mongo Coverage Results" MODIFIED="1582440139065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/pytest_commons" />
+    <SUITE FILE_PATH="coverage/requestoutmation$process.coverage" NAME="process作业 Coverage Results" MODIFIED="1585464052148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程与线程/python多进程" />
+    <SUITE FILE_PATH="coverage/requestoutmation$cssSelecter.coverage" NAME="cssSelecter选择器 Coverage Results" MODIFIED="1583656404231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/requestoutmation$9_2.coverage" NAME="9.2如何迭代器进行切片操作 Coverage Results" MODIFIED="1586184122580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$_msgpack.coverage" NAME="生产者编码-msgpack Coverage Results" MODIFIED="1581850383975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/kafka_course/编码与解码" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_test_001.coverage" NAME="py.test for test_ljh.test_001 Coverage Results" MODIFIED="1576377641654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_redis_SendMessage_test_send_02.coverage" NAME="Unittests for test_send_message_redis.SendMessage.test_send_02 Coverage Results" MODIFIED="1574586797588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_test_send_message_redis_py.coverage" NAME="Unittests in test_send_message_redis.py Coverage Results" MODIFIED="1575166545031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_tsms_run_case_SignAdd_testUserfail.coverage" NAME="Unittests for tsms_run_case.SignAdd.testUserfail Coverage Results" MODIFIED="1571558324007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_push_mq_TestPushMq_test_push_001.coverage" NAME="py.test for test_push_mq.TestPushMq.test_push_001 Coverage Results" MODIFIED="1577619290594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mq" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_xfail_test_01.coverage" NAME="py.test for xfail.test_01 Coverage Results" MODIFIED="1577374738537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame/标记失败" />
+    <SUITE FILE_PATH="coverage/requestoutmation$python.coverage" NAME="python命令行 Coverage Results" MODIFIED="1575383054629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python命令行" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_tsms_kafka_analysis_TestTsmsKafkaAnalysis.coverage" NAME="py.test for test_tsms_kafka_analysis.TestTsmsKafkaAnalysis Coverage Results" MODIFIED="1582449550025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_tsms_kafka" />
+    <SUITE FILE_PATH="coverage/requestoutmation$locust_start_demo.coverage" NAME="locust_start_demo Coverage Results" MODIFIED="1586357688236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/性能测试/locust压测" />
+    <SUITE FILE_PATH="coverage/requestoutmation$19.coverage" NAME="19如何设置文件的缓冲 Coverage Results" MODIFIED="1587395965369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$send_msg__1_.coverage" NAME="send_msg (1) Coverage Results" MODIFIED="1581826876406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议/kafka使用" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_py_test_test_01.coverage" NAME="py.test for py_test.test_01 Coverage Results" MODIFIED="1575195920320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1575776987574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project" />
+    <SUITE FILE_PATH="coverage/requestoutmation$create_temp.coverage" NAME="create_temp Coverage Results" MODIFIED="1572163465666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/temp_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$try.coverage" NAME="try Coverage Results" MODIFIED="1586156729794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$learn.coverage" NAME="learn Coverage Results" MODIFIED="1583653473350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_try1_py.coverage" NAME="Unittests in try1.py Coverage Results" MODIFIED="1571567206562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_redis_SendMessage.coverage" NAME="Unittests for test_send_message_redis.SendMessage Coverage Results" MODIFIED="1574577051185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$ex_import_module.coverage" NAME="ex_import_module Coverage Results" MODIFIED="1569653615693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/导入练习/pack/sub1" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_SendMessage_test_send_message_check_to_db.coverage" NAME="Unittests for test_send_message.SendMessage.test_send_message_check_to_db Coverage Results" MODIFIED="1573958888632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$_json.coverage" NAME="生产者编码-json Coverage Results" MODIFIED="1581848703600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/kafka_course/编码与解码" />
+    <SUITE FILE_PATH="coverage/requestoutmation$test_charge.coverage" NAME="test_charge Coverage Results" MODIFIED="1574564666693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/charge_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_test_login_error2.coverage" NAME="py.test for test_ljh.test_login_error2 Coverage Results" MODIFIED="1576381779734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_SendMessage_test_send_message.coverage" NAME="Unittests for test_send_message.SendMessage.test_send_message Coverage Results" MODIFIED="1575181477985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in__pytest_cache.coverage" NAME="py.test in .pytest_cache Coverage Results" MODIFIED="1575776928160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project/cases/.pytest_cache" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_mongodb_TestMongodb_test_mongo_001.coverage" NAME="py.test for test_mongodb.TestMongodb.test_mongo_001 Coverage Results" MODIFIED="1582450311715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_tsms_mongodb" />
+    <SUITE FILE_PATH="coverage/requestoutmation$7.coverage" NAME="7请求城市天气预报接口 Coverage Results" MODIFIED="1586160821901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$read_excel.coverage" NAME="read_excel Coverage Results" MODIFIED="1572533822298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/commons" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_create_sign_CreateSign_test_create_sign_assert_to_db.coverage" NAME="Unittests for test_create_sign.CreateSign.test_create_sign_assert_to_db Coverage Results" MODIFIED="1573378272997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$send_message.coverage" NAME="send_message Coverage Results" MODIFIED="1572166025618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$producer.coverage" NAME="producer Coverage Results" MODIFIED="1581841931608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/kafka_course" />
+    <SUITE FILE_PATH="coverage/requestoutmation$select.coverage" NAME="select下拉框 Coverage Results" MODIFIED="1584241657888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/requestoutmation$jinja2__1_.coverage" NAME="jinja2 (1) Coverage Results" MODIFIED="1584256291587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/FLASK模版/jinja2" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_tsms_kafka_analysis_TestTsmsKafkaAnalysis_test_kafka_001.coverage" NAME="py.test for test_tsms_kafka_analysis.TestTsmsKafkaAnalysis.test_kafka_001 Coverage Results" MODIFIED="1582452448073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_tsms_kafka" />
+    <SUITE FILE_PATH="coverage/requestoutmation$11.coverage" NAME="11拆分含有多种分割符的字符串 Coverage Results" MODIFIED="1586577049245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_02_Test01_test_001.coverage" NAME="Unittests for test_02.Test01.test_001 Coverage Results" MODIFIED="1572777877692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$17.coverage" NAME="17文本文件读写 Coverage Results" MODIFIED="1587394106759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$jinja2.coverage" NAME="jinja2条件判断 Coverage Results" MODIFIED="1584257275668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/FLASK模版/jinja22" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_sign_api_create_TestSignApiCreate_test_sign_create_002.coverage" NAME="py.test for test_sign_api_create.TestSignApiCreate.test_sign_create_002 Coverage Results" MODIFIED="1577114286054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$redis.coverage" NAME="获取redis余额接口 Coverage Results" MODIFIED="1586158450927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask课后作业" />
+    <SUITE FILE_PATH="coverage/requestoutmation$module3.coverage" NAME="module3 Coverage Results" MODIFIED="1569654708651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/导入练习/pack/sub2" />
+    <SUITE FILE_PATH="coverage/requestoutmation$__1_.coverage" NAME="回调服务 (1) Coverage Results" MODIFIED="1584862095885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask课后作业/flask_web项目" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms_db.coverage" NAME="tsms_db Coverage Results" MODIFIED="1573956011737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/commons" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_sign_api_create_TestSignApiCreate_test_sign_create_001.coverage" NAME="py.test for test_sign_api_create.TestSignApiCreate.test_sign_create_001 Coverage Results" MODIFIED="1577114055130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_try_test_login.coverage" NAME="py.test for try.test_login Coverage Results" MODIFIED="1577372874724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame/数据驱动" />
+    <SUITE FILE_PATH="coverage/requestoutmation$16.coverage" NAME="16去掉不需要的字符 Coverage Results" MODIFIED="1587048457388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_push_mq_TestPushMq.coverage" NAME="py.test for test_push_mq.TestPushMq Coverage Results" MODIFIED="1577618839289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mq" />
+    <SUITE FILE_PATH="coverage/requestoutmation$topic.coverage" NAME="订阅多个topic Coverage Results" MODIFIED="1581840219868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/kafka_course" />
+    <SUITE FILE_PATH="coverage/requestoutmation$flaskform.coverage" NAME="flask接收form Coverage Results" MODIFIED="1583053971998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/请求数据与接收数据（重点）/form表单" />
+    <SUITE FILE_PATH="coverage/requestoutmation$8.coverage" NAME="8使用生成器对象生成可迭代对象 Coverage Results" MODIFIED="1586179928097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$test_mongodb.coverage" NAME="test_mongodb Coverage Results" MODIFIED="1582446562026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mongodb" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_python_command_line.coverage" NAME="py.test in python_command_line Coverage Results" MODIFIED="1576395855334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_command_line" />
+    <SUITE FILE_PATH="coverage/requestoutmation$http.coverage" NAME="http方法 Coverage Results" MODIFIED="1586158690169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_redis_SendMessage_test_check_frep_over.coverage" NAME="Unittests for test_send_message_redis.SendMessage.test_check_frep_over Coverage Results" MODIFIED="1574581642413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_test_skip5.coverage" NAME="py.test for test_ljh.test_skip5 Coverage Results" MODIFIED="1576391906390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$consumer1.coverage" NAME="consumer1 Coverage Results" MODIFIED="1581835385287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议/卡夫卡" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_py_test_py.coverage" NAME="py.test in py_test.py Coverage Results" MODIFIED="1575195408420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_test_delete_sign_id_py.coverage" NAME="py.test in test_delete_sign_id.py Coverage Results" MODIFIED="1575797153950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project/cases/test_sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_try1_Sign.coverage" NAME="Unittests for try1.Sign Coverage Results" MODIFIED="1571566484801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_test_01_py.coverage" NAME="Unittests in test_01.py Coverage Results" MODIFIED="1572778149351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_test_sign_api.coverage" NAME="py.test in test_sign_api Coverage Results" MODIFIED="1575802350603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_mongodb_TestMongodb.coverage" NAME="py.test for test_mongodb.TestMongodb Coverage Results" MODIFIED="1582450383269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_tsms_mongodb" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_test_data_drive_py.coverage" NAME="Unittests in test_data_drive.py Coverage Results" MODIFIED="1572171977191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/temp_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_SendMessage_test_temp_api.coverage" NAME="Unittests for test_send_message.SendMessage.test_temp_api Coverage Results" MODIFIED="1572766245333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$args.coverage" NAME="客户端请求带args参数 Coverage Results" MODIFIED="1584976297789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/请求数据与接收数据（重点）/args参数" />
+    <SUITE FILE_PATH="coverage/requestoutmation$for.coverage" NAME="for循环渲染 Coverage Results" MODIFIED="1584258253048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/FLASK模版/jinja22" />
+    <SUITE FILE_PATH="coverage/requestoutmation$data.coverage" NAME="客户端请求带data参数 Coverage Results" MODIFIED="1583053985323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/请求数据与接收数据（重点）/data参数" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_create_sign_CreateSign_test_create_sign_success.coverage" NAME="Unittests for test_create_sign.CreateSign.test_create_sign_success Coverage Results" MODIFIED="1573703887816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$mysql_pansir.coverage" NAME="mysql数据展示-pansir Coverage Results" MODIFIED="1584844120540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/flask_web项目" />
+    <SUITE FILE_PATH="coverage/requestoutmation$send_msg__2_.coverage" NAME="send_msg (2) Coverage Results" MODIFIED="1581835414254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议/卡夫卡" />
+    <SUITE FILE_PATH="coverage/requestoutmation$SQLALchemy.coverage" NAME="SQLALchemy Coverage Results" MODIFIED="1573963509993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据库操作" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_cases.coverage" NAME="py.test in cases Coverage Results" MODIFIED="1575778011971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project/cases" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_test_login.coverage" NAME="py.test for test_ljh.test_login Coverage Results" MODIFIED="1576378806027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_test_try1_py.coverage" NAME="py.test in test_try1.py Coverage Results" MODIFIED="1575777740929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project/cases" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in__py.coverage" NAME="py.test in 装饰器.py Coverage Results" MODIFIED="1586274365947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数式编程" />
+    <SUITE FILE_PATH="coverage/requestoutmation$flask.coverage" NAME="flask框架课后作业 Coverage Results" MODIFIED="1583502742069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/课后作业" />
+    <SUITE FILE_PATH="coverage/requestoutmation$mysql.coverage" NAME="mysql数据展示 Coverage Results" MODIFIED="1584802740839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发/flask框架/flask_web项目" />
+    <SUITE FILE_PATH="coverage/requestoutmation$cunsumer.coverage" NAME="cunsumer Coverage Results" MODIFIED="1581834998364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中间件/AMQP协议/卡夫卡" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_case1.coverage" NAME="py.test in case1 Coverage Results" MODIFIED="1575786864955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project/cases/case1" />
+    <SUITE FILE_PATH="coverage/requestoutmation$test_tsms_mq_consume.coverage" NAME="test_tsms_mq_consume Coverage Results" MODIFIED="1578813863442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mq" />
+    <SUITE FILE_PATH="coverage/requestoutmation$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1584244298485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_try_test_01.coverage" NAME="py.test for test_try.test_01 Coverage Results" MODIFIED="1575769559683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_pytest_project/cases" />
+    <SUITE FILE_PATH="coverage/requestoutmation$data_drive.coverage" NAME="data_drive Coverage Results" MODIFIED="1572749464890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project" />
+    <SUITE FILE_PATH="coverage/requestoutmation$9.coverage" NAME="9进行反向迭代 Coverage Results" MODIFIED="1586181688397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_try_test_eval.coverage" NAME="py.test for try.test_eval Coverage Results" MODIFIED="1577373433668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame/数据驱动" />
+    <SUITE FILE_PATH="coverage/requestoutmation$mock.coverage" NAME="测试桩与mock Coverage Results" MODIFIED="1582967301509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/测试桩开发" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_send_message_TestSendMessage_test_send_message_api_001.coverage" NAME="py.test for test_send_message.TestSendMessage.test_send_message_api_001 Coverage Results" MODIFIED="1578812430738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_send_message_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$13.coverage" NAME="13调整字符串中文本的格式 Coverage Results" MODIFIED="1586875442143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_pytest_test_01.coverage" NAME="py.test for pytest.test_01 Coverage Results" MODIFIED="1575193719313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_delete_sign_id_TestDeleteSign.coverage" NAME="py.test for test_delete_sign_id.TestDeleteSign Coverage Results" MODIFIED="1575799689607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_test_ljh_test_json_error1.coverage" NAME="py.test for test_ljh.test_json_error1 Coverage Results" MODIFIED="1576382235514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest" />
+    <SUITE FILE_PATH="coverage/requestoutmation$run_all_cases_01.coverage" NAME="run_all_cases_01 Coverage Results" MODIFIED="1572083988388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project" />
+    <SUITE FILE_PATH="coverage/requestoutmation$12ab.coverage" NAME="12判断字符串a是否以字符串b开头或结尾 Coverage Results" MODIFIED="1586580147297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_in_test_tsms_mq_produce_py.coverage" NAME="py.test in test_tsms_mq_produce.py Coverage Results" MODIFIED="1578813149154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_mq" />
+    <SUITE FILE_PATH="coverage/requestoutmation$js.coverage" NAME="js Coverage Results" MODIFIED="1584270019150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/requestoutmation$create_sign.coverage" NAME="create_sign Coverage Results" MODIFIED="1572163392444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/sign_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_SendMessage.coverage" NAME="Unittests for test_send_message.SendMessage Coverage Results" MODIFIED="1573699862226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in__py.coverage" NAME="Unittests in 数据驱动.py Coverage Results" MODIFIED="1572171835659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_tsms_run_case_SignAdd.coverage" NAME="Unittests for tsms_run_case.SignAdd Coverage Results" MODIFIED="1571566545589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for__test_login.coverage" NAME="py.test for 数据驱动.test_login Coverage Results" MODIFIED="1575793654531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest/数据驱动" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_for_test_send_message_redis_SendMessage_test_send_03.coverage" NAME="Unittests for test_send_message_redis.SendMessage.test_send_03 Coverage Results" MODIFIED="1574588863459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms_project/cases/send_api" />
+    <SUITE FILE_PATH="coverage/requestoutmation$10for.coverage" NAME="10在一个for语句中迭代多个对象 Coverage Results" MODIFIED="1586185818294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python功能实现" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_xfail_test_eval1.coverage" NAME="py.test for xfail.test_eval1 Coverage Results" MODIFIED="1577374346887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_py_frame/pytest_frame/标记失败" />
+    <SUITE FILE_PATH="coverage/requestoutmation$tsms.coverage" NAME="tsms注册压测 Coverage Results" MODIFIED="1586656282522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/性能测试/locust压测/案例" />
+    <SUITE FILE_PATH="coverage/requestoutmation$Unittests_in_tsms_run_case_py.coverage" NAME="Unittests in tsms_run_case.py Coverage Results" MODIFIED="1571563427734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tsms" />
+    <SUITE FILE_PATH="coverage/requestoutmation$py_test_for_py_test_test_02.coverage" NAME="py.test for py_test.test_02 Coverage Results" MODIFIED="1575195354543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试框架/pytest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="简介" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/持续集成/简介">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19如何设置文件的缓冲.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python功能实现/19如何设置文件的缓冲.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20如何将文件映射到内存.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python功能实现/20如何将文件映射到内存.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Robot Test Suite" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[sign_id is]</find>
+      <find>返回内容是</find>
+      <find>test_tsms_pytest_project</find>
+      <find>param</find>
+      <find>http_code</find>
+      <find>gen</find>
+      <find>phone</find>
+      <find>send</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/test_tsms_pytest_project</dir>
+      <dir>$PROJECT_DIR$/test_tsms_pytest_project/test_cases</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/test_tsms_pytest_project/test_cases/test_sign_api/test_sign_api_create.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test_tsms_pytest_project/requirements.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/测试桩开发/flask课后作业/获取redis余额接口.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/中间件/AMQP协议/roabbitMQ/roabbitMQ.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/进程与线程/python协程/同步与异步执行/多协程并非.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/locust基础.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/locust_start_demo.py" />
+        <option value="$PROJECT_DIR$/python功能实现/让字典保持有序.py" />
+        <option value="$PROJECT_DIR$/python功能实现/history" />
+        <option value="$PROJECT_DIR$/python功能实现/实现用户的历史记录功能.py" />
+        <option value="$PROJECT_DIR$/python功能实现/实现可迭代对象和迭代器.py" />
+        <option value="$PROJECT_DIR$/python功能实现/请求城市天气预报接口.py" />
+        <option value="$PROJECT_DIR$/python功能实现/try.py" />
+        <option value="$PROJECT_DIR$/测试桩开发/flask框架/login.html" />
+        <option value="$PROJECT_DIR$/python功能实现/get_weathers.html" />
+        <option value="$PROJECT_DIR$/python功能实现/7请求城市天气预报接口.py" />
+        <option value="$PROJECT_DIR$/python功能实现/7实现可迭代对象和迭代器.py" />
+        <option value="$PROJECT_DIR$/python功能实现/使用生成器对象生成可迭代对象.py" />
+        <option value="$PROJECT_DIR$/python功能实现/8使用生成器对象生成可迭代对象.py" />
+        <option value="$PROJECT_DIR$/python功能实现/进行反向迭代.py" />
+        <option value="$PROJECT_DIR$/python功能实现/9进行反向迭代.py" />
+        <option value="$PROJECT_DIR$/python功能实现/如何迭代器进行切片操作.py" />
+        <option value="$PROJECT_DIR$/python功能实现/9.2如何迭代器进行切片操作.py" />
+        <option value="$PROJECT_DIR$/python功能实现/在一个for语句中迭代多个对象.py" />
+        <option value="$PROJECT_DIR$/函数式编程/装饰器.py" />
+        <option value="$PROJECT_DIR$/python功能实现/10在一个for语句中迭代多个对象.py" />
+        <option value="$PROJECT_DIR$/python功能实现/11拆分含有多种分割符的字符串.py" />
+        <option value="$PROJECT_DIR$/python功能实现/12文件列表/e.py" />
+        <option value="$PROJECT_DIR$/python功能实现/12文件列表/f.html" />
+        <option value="$PROJECT_DIR$/python功能实现/12files/g.py" />
+        <option value="$PROJECT_DIR$/python功能实现/12files/h.html" />
+        <option value="$PROJECT_DIR$/python功能实现/12files/abs.py" />
+        <option value="$PROJECT_DIR$/python功能实现/调整字符串中文本格式.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/脚本增强/参数关联.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/脚本增强/参数化.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/案例/tsms注册压测.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/案例/tsms登录压测.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/案例/登录后请求接口压测.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/案例/tsms_sign压测.py" />
+        <option value="$PROJECT_DIR$/性能测试/locust压测/案例/tsms_send接口压测.py" />
+        <option value="$PROJECT_DIR$/git/简介" />
+        <option value="$PROJECT_DIR$/持续集成/简介" />
+        <option value="$PROJECT_DIR$/python功能实现/12判断字符串a是否以字符串b开头或结尾.py" />
+        <option value="$PROJECT_DIR$/python功能实现/13调整字符串中文本的格式.py" />
+        <option value="$PROJECT_DIR$/python功能实现/14小字符串拼接.py" />
+        <option value="$PROJECT_DIR$/python功能实现/对字符串进行左、右、居中对齐.py" />
+        <option value="$PROJECT_DIR$/python功能实现/15对字符串进行左、右、居中对齐.py" />
+        <option value="$PROJECT_DIR$/python功能实现/16去掉不需要的字符.py" />
+        <option value="$PROJECT_DIR$/python功能实现/文本文件读写.py" />
+        <option value="$PROJECT_DIR$/python功能实现/17文本文件读写.py" />
+        <option value="$PROJECT_DIR$/python功能实现/18处理二进制文件.py" />
+        <option value="$PROJECT_DIR$/python功能实现/19文件映射.py" />
+        <option value="$PROJECT_DIR$/python功能实现/demo1.txt" />
+        <option value="$PROJECT_DIR$/python功能实现/19如何设置文件的缓冲.py" />
+        <option value="$PROJECT_DIR$/python功能实现/20如何将文件映射到内存.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="python功能实现" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="函数式编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="持续集成" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="正则表达式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="requestoutmation" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象编程和类装饰器" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="requestoutmation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.4 (/usr/local/Cellar/python3/3.6.4_2/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/测试桩开发/flask框架" />
+      <recent name="$PROJECT_DIR$/进程与线程/python协程/同步与异步执行" />
+      <recent name="$PROJECT_DIR$/进程与线程/python多线程/线程锁" />
+      <recent name="$PROJECT_DIR$/进程与线程/python多进程" />
+      <recent name="$PROJECT_DIR$/测试桩开发/课后作业" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python功能实现" />
+      <recent name="$PROJECT_DIR$/python功能实现/获取城市天气预报接口" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/测试桩开发/flask框架/flask_web项目" />
+      <recent name="$PROJECT_DIR$/测试桩开发/flask框架/flask_web项目/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.19如何设置文件的缓冲">
+    <configuration name="请求获取余额接口" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试桩开发/课后作业" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试桩开发/课后作业/请求获取余额接口.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="笔记" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/笔记.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="笔记" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/笔记.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="笔记" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="快速找到多个字典中的公共健" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/快速找到多个字典中的公共健.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="统计序列中元素的出现频度" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/统计序列中元素的出现频度.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程与线程/python多进程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程与线程/python多进程/process作业.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="同步与异步执行" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/进程与线程/python协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/进程与线程/python协程/同步与异步执行/模拟IO阻塞调用，协程异步.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="14小字符串拼接" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/14小字符串拼接.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="15对字符串进行左、右、居中对齐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/15对字符串进行左、右、居中对齐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="16去掉不需要的字符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/16去掉不需要的字符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="17文本文件读写" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/17文本文件读写.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="19如何设置文件的缓冲" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python功能实现" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="requestoutmation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python功能实现/19如何设置文件的缓冲.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.14小字符串拼接" />
+      <item index="1" class="java.lang.String" itemvalue="Python.15对字符串进行左、右、居中对齐" />
+      <item index="2" class="java.lang.String" itemvalue="Python.16去掉不需要的字符" />
+      <item index="3" class="java.lang.String" itemvalue="Python.17文本文件读写" />
+      <item index="4" class="java.lang.String" itemvalue="Python.19如何设置文件的缓冲" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.19如何设置文件的缓冲" />
+        <item index="1" class="java.lang.String" itemvalue="Python.17文本文件读写" />
+        <item index="2" class="java.lang.String" itemvalue="Python.16去掉不需要的字符" />
+        <item index="3" class="java.lang.String" itemvalue="Python.15对字符串进行左、右、居中对齐" />
+        <item index="4" class="java.lang.String" itemvalue="Python.14小字符串拼接" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a111275c-b9c2-4e24-a35b-66aa40042e2b" name="Default" comment="" />
+      <created>1568543420391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568543420391</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_for_test_send_message_SendMessage_test_send_message - 2020.03.22 at 14h 58m 49s.xml">
+      <configuration name="py.test for test_send_message.SendMessage.test_send_message" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_send_message_SendMessage_test_send_message - 2020.03.22 at 15h 07m 39s.xml">
+      <configuration name="py.test for test_send_message.SendMessage.test_send_message" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_send_message_SendMessage_test_send_message - 2020.03.22 at 15h 28m 35s.xml">
+      <configuration name="py.test for test_send_message.SendMessage.test_send_message" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_send_message_SendMessage_test_send_message - 2020.03.22 at 16h 19m 24s.xml">
+      <configuration name="py.test for test_send_message.SendMessage.test_send_message" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_send_message_SendMessage_test_send_message - 2020.03.22 at 16h 25m 14s.xml">
+      <configuration name="py.test for test_send_message.SendMessage.test_send_message" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_装饰器_py - 2020.04.07 at 23h 32m 17s.xml">
+      <configuration name="py.test in 装饰器.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_装饰器_py - 2020.04.07 at 23h 40m 37s.xml">
+      <configuration name="py.test in 装饰器.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_装饰器_py - 2020.04.07 at 23h 41m 26s.xml">
+      <configuration name="py.test in 装饰器.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_装饰器_py - 2020.04.07 at 23h 44m 46s.xml">
+      <configuration name="py.test in 装饰器.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_装饰器_py - 2020.04.07 at 23h 46m 08s.xml">
+      <configuration name="py.test in 装饰器.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294964" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5122302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47482014" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23640484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32805756" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39568347" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tsms_project/commons/try.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tsms_project/commons/try.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tsms_project/commons/try.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tsms_project/commons/try.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tsms_project/commons/try.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="37" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/测试桩开发/flask课后作业/flask_web项目/templates/get_sign.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-748">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试桩开发/flask课后作业/flask_web项目/mysql数据展示-pansir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1584844723528" expanded="true" signature="760:844" ph="select * fro... sms_sign" />
+            <marker date="1584844723528" expanded="true" signature="907:976" ph="select * fro... sms_sign" />
+            <marker date="1584844723528" expanded="true" signature="1591:1657" ph="select * fro... sms_send" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试桩开发/flask框架/http方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试桩开发/flask框架/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/7请求城市天气预报接口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="26" column="14" lean-forward="false" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/7get_weathers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/8使用生成器对象生成可迭代对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/7实现可迭代对象和迭代器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-681">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/9.1进行反向迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象编程和类装饰器/类装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#113#127#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象编程和类装饰器/面向对象编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式编程/返回函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/9.2如何迭代器进行切片操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式编程/装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-806">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/locust_start_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="47" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/10在一个for语句中迭代多个对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/967193849/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="5015" column="8" lean-forward="false" selection-start-line="5015" selection-start-column="8" selection-end-line="5015" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/函数式编程/函数式编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/11拆分含有多种分割符的字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/b">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/d">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/f.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/g.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/h.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12files/abs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/脚本增强/参数关联.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/脚本增强/参数化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/案例/tsms注册压测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/案例/tsms登录压测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/案例/登录后请求接口压测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/案例/tsms_sign压测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/性能测试/locust压测/案例/tsms_send接口压测.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="39" column="16" lean-forward="false" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/简介">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/12判断字符串a是否以字符串b开头或结尾.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/调整字符串中文本格式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/13调整字符串中文本的格式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/14小字符串拼接.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/15对字符串进行左、右、居中对齐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/py1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/demo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/18处理二进制文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/17文本文件读写.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/16去掉不需要的字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="49" column="47" lean-forward="false" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+          <folding>
+            <element signature="e#22#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/持续集成/简介">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/demo1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/19如何设置文件的缓冲.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python功能实现/20如何将文件映射到内存.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

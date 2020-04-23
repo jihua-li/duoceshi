@@ -1,0 +1,55 @@
+上课用的测试连接信息：
+http://192.168.0.194:8002/phpmyadmin/index.php  #数据库登录页面地址  root/123456
+
+http://192.168.0.194:8085/  #redis页面地址 admin/admin
+
+
+远程访问redis -- ssh dcs@192.168.0.148 -p 1234
+建立连接 -- redis-cli
+鉴权 -- auth 123456（redis登录密码）
+
+
+基本数据类型
+数据类型                 说明
+String(字符 )        相当于python字符
+Hash(散 )            键值对，类似python字典的键值对
+List( 表)            相当于python 表
+Set(集合)            无序，元素不重复
+Sorted Set(有序集合)  有序，元素不重复
+
+set name lijihua  --创建
+get name          --获取指定key的值
+expire name 60    --设置有效期
+ttl name          --查看key的过期时间
+keys name         --查询key
+keys *me*         --模糊匹配
+del name          --删除key
+
+添加集合，数据不能重复
+--添加一个集合，并赋值
+sadd age 18
+sadd age 18,20
+
+--查询这个key，可以获得集合里的所有值
+smembers age
+
+--删除集合中的某个值
+srem age 18
+
+添加哈希（hash）
+--添加一个哈希，并添加key-value
+hset location dsc shenzhen
+hset location xiaopeng guangzhou
+
+--查询redis-key下的所有hash-key
+hkeys location
+
+--查询某个key值
+hget location dsc
+
+--查询所有
+hgetall location
+
+--删除指定字段
+hdel location dec
+
